@@ -1,4 +1,4 @@
-# Autenticação usuário
+# Autenticação do usuário
 
 A new Flutter project.
 
